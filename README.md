@@ -7,8 +7,7 @@ Kimtaiyo Mech
 
 https://www.youtube.com/watch?v=oGmWMePwHvY
 
-Some other repos that contain commits of code for this repo:
+Some other repos that contain previous commits of code before this repo was created:
 
 https://github.com/CS4310-corner-group/waitForIt/tree/priorityJusting
-
 https://github.com/jusko1505/reniceCheckpoint
